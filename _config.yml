@@ -1,0 +1,14 @@
+layout_spectrum: 0.3874827341642231
+typography_spectrum: 0.32893970352597535
+color:
+  brandStrength: 0.7814949676394463
+  lightness: 0.42985400813631713
+  saturation: 0.23178111528977752
+  rhythmicContrast: 0.12980106566101313
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: Food Travels
